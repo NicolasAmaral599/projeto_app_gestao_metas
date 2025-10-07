@@ -1,0 +1,5 @@
+{
+  "name": "Medical Appointment Scheduler",
+  "description": "A web application for managing medical appointments, patients, and doctors. It provides functionalities for scheduling, viewing, rescheduling, and canceling appointments.",
+  "requestFramePermissions": []
+}
